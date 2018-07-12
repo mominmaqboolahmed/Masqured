@@ -1,0 +1,175 @@
+.container {
+	margin: 0 auto;
+	width: 900px;
+}
+.logo {
+	float: left;
+	margin-top: 40px;
+	margin-bottom: 30px;
+}
+nav ul {
+	float: right;
+	margin-bottom: 44px;
+	margin-top: 44px;
+}
+nav ul li {
+	display: inline;
+}
+nav ul li a {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #9a9a9a;
+	text-decoration: none;
+	margin-left: 96px;
+}
+nav ul li a:hover {
+	text-decoration: underline;
+	color: #FF0;
+}
+.slider img {
+	width: 100%;
+}
+.feature-txt {
+	text-align: center;
+	margin-top: 52px;
+	margin-bottom: 50px;
+}
+.feature-txt h1 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 24px;
+	color: #141414;
+	text-decoration: underline;
+	font-weight: bold;
+	margin-bottom: 45px;
+}
+.feature-txt p {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #3e3e3e;
+	line-height: 20px;
+}
+.feature-1 {
+	width: 260px;
+	float: left;
+	margin-right: 60px;
+}
+.feature-2 {
+	float: right;
+	width: 260px;
+}
+.feature-1 img, .feature-2 img {
+	margin-bottom: 60px;
+}
+footer {
+	background-color: #4f4f4f;
+	padding-top: 34px;
+	padding-bottom: 34px;
+}
+footer p {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #9a9a9a;
+}
+footer strong {
+	font-weight: bold;
+	color: #959595;
+}
+footer span {
+	float: right;
+}
+/**------------------------------TEAM-------------------------------------**/
+.bg-color {
+	background-color: #f3f3f3;
+	margin-top: 68px;
+	margin-bottom: 74px;
+}
+.team-txt {
+	text-align: center;
+	padding-top: 88px;
+	padding-bottom: 48px;
+}
+.team-txt h1 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 24px;
+	font-weight: bold;
+	color: #292929;
+	text-decoration: underline;
+	margin-bottom: 48px;
+}
+.team-txt p {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #535353;
+	line-height: 20px;
+}
+.team-1 {
+	float: left;
+	width: 213px;
+	margin-right: 16px;
+	margin-bottom: 45px;
+}
+.team-2 {
+	float: right;
+	width: 213px;
+}
+.team-1 img, .team-2 img {
+	margin-bottom: 16px;
+}
+/**--------------------------------------CONTACT------------------------------------**/
+.contact-txt {
+	text-align: center;
+}
+.contact-txt h1 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 24px;
+	font-weight: bold;
+	color: #1f1f1f;
+	text-decoration: underline;
+	margin-top: 176px;
+	margin-bottom: 58px;
+}
+.left-contact {
+	float: left;
+	margin-right: 20px;
+}
+.left-contact p {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #505050;
+	margin-bottom: 36px;
+}
+.left-contact img {
+	margin-bottom: 260px;
+	border: 1px solid #e7e7e7;
+}
+.right-contact p {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #505050;
+	margin-bottom: 28px;
+}
+textarea {
+	width: 501px;
+	height: 252px;
+	padding-top: 20px;
+	padding-left: 32px;
+	background-color: #f2f2f2;
+	border: 1px solid #dcdcdc;
+	margin-bottom: 22px;
+}
+input {
+	width: 260px;
+	height: 40px;
+	padding-left: 32px;
+	margin-right: 20px;
+	background-color: #f3f3f3;
+	border: 1px solid #dcdcdc;
+}
+button {
+	padding: 14px 93px 14px 88px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	background-color: #6895a8;
+	color: #f1ffff;
+	border: 1px solid #bfd2d9;
+}
